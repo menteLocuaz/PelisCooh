@@ -1,0 +1,7 @@
+.detalleConteiner{
+   display: flex;
+   justify-content: center;
+}
+.col{
+    max-width: 400px;
+}
